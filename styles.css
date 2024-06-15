@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: lightyellow;
+    text-shadow: 4px 5px 6px;
+    margin:50px;
+}
+h1{
+    font-size: 50px;
+    text-decoration:burlywood;
+}
+.btn #dec{
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    box-shadow: 2px 5px 20px rgb(113, 113, 47);
+}
+.btn #inc{
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    background-color: lightgreen;
+    box-shadow: 2px 5px 20px rgb(93, 188, 93);
+}
+.btn #clr{
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    background-color: red;
+    box-shadow: 2px 5px 20px rgb(179, 84, 84); 
+}
+p{
+    text-decoration: underline;
+    font-size: 35px;
+}
+#error{
+    font-size: 20px;
+    color: red;
+    
+}
